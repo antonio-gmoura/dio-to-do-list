@@ -7,4 +7,6 @@
     <string name="label_hour">Hora</string>
     <string name="label_cancel">Cancelar</string>
     <string name="label_description_new_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Excluir</string>
 </resources>
